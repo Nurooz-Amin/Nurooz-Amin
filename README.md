@@ -79,17 +79,16 @@ class NuroozAmin:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurooz-Amin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurooz-Amin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurooz-Amin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/Nurooz-Amin)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurooz-Amin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/Nurooz-Amin)
+![Profile Views](https://komarev.com/ghpvc/?username=Nurooz-Amin&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Nurooz-Amin?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS)
 
 </div>
-
 ---
 
 ## 🏆 Trophies
