@@ -89,7 +89,8 @@ class NuroozAmin:
 ![Followers](https://img.shields.io/github/followers/Nurooz-Amin?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS)
 
 </div>
----
+
+
 
 ## 🏆 Trophies
 
