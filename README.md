@@ -10,7 +10,7 @@
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## `whoami`
+## `Who am i`
 
 ```python
 class NuroozAmin:
@@ -81,14 +81,14 @@ class NuroozAmin:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NuroozAmin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuroozAmin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurooz-Amin&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurooz-Amin&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NuroozAmin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/NuroozAmin)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nurooz-Amin&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://github.com/NuroozAmin)
 
 </div>
 
@@ -98,7 +98,7 @@ class NuroozAmin:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NuroozAmin&theme=darkhub&no-frame=true&row=1&margin-w=15&title_color=a78bfa)](https://github.com/NuroozAmin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nurooz-Amin&theme=darkhub&no-frame=true&row=1&margin-w=15&title_color=a78bfa)](https://github.com/NuroozAmin)
 
 </div>
 
@@ -123,7 +123,7 @@ class NuroozAmin:
 
 <div align="center">
 
-[![Nurooz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NuroozAmin&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/NuroozAmin)
+[![Nurooz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nurooz-Amin&theme=react-dark&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/Nurooz-Amin)
 
 </div>
 
@@ -133,9 +133,9 @@ class NuroozAmin:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0f0c29)](https://www.linkedin.com/in/nurooz-amin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0f0c29)](https://www.linkedin.com/in/nuroozamin/)
 [![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=microsoft-outlook&logoColor=a78bfa&labelColor=0f0c29)](mailto:nuroozamin@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0f0c29)](https://github.com/NuroozAmin)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=0f0c29)](https://github.com/Nurooz-Amin)
 
 </div>
 
